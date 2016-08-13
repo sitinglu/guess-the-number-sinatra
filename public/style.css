@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster|Dosis);
+
+h1 {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+    color: red;
+}
+
+.title {
+  font-size: 5em;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  text-align: center;
+  height: 100%;
+  background-image: url("img/dark-bg1.jpg");
+  color: white;
+  font-family: 'Dosis', sans-serif;
+  font-size: 22px
+}
+
+.btn{
+  font-size: inherit;
+  color: white;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.guess {
+  font-size: 2em;
+  color: blue;
+  display: block;
+  margin: 0 auto 1em;
+}
+
+.game {
+  color: yellow;
+  background-color: purple;
+  text-decoration: none;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  display: inline-block;
+}
+
+.trophy {
+  height: 40vmin;
+}
